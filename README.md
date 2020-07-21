@@ -1,12 +1,8 @@
 # MissingLink Broken Link SEO Monitor (Shell Script)
 
-█▀▄▀█ ▄█    ▄▄▄▄▄    ▄▄▄▄▄   ▄█    ▄     ▄▀      █    ▄█    ▄   █  █▀ 
-█ █ █ ██   █     ▀▄ █     ▀▄ ██     █  ▄▀        █    ██     █  █▄█   
-█ ▄ █ ██ ▄  ▀▀▀▀▄ ▄  ▀▀▀▀▄   ██ ██   █ █ ▀▄      █    ██ ██   █ █▀▄   
-█   █ ▐█  ▀▄▄▄▄▀   ▀▄▄▄▄▀    ▐█ █ █  █ █   █     ███▄ ▐█ █ █  █ █  █  
-    █   ▐                      ▐ █  █ █  ███          ▀ ▐ █  █ █   █   
-    ▀                             █   ██        v0.3a      █   ██  ▀    
-
+┌┬┐┬┌─┐┌─┐┬┌┐┌┌─┐┬  ┬┌┐┌┬┌─
+││││└─┐└─┐│││││ ┬│  ││││├┴┐
+┴ ┴┴└─┘└─┘┴┘└┘└─┘┴─┘┴┘└┘┴ ┴
 
 MissingLink is a shell script which uses [pylinkvalidor by bartdag](https://github.com/bartdag/pylinkvalidator) to monitor a list of websites for broken links. It can be run on a schedule as part of SEO checks.
 
