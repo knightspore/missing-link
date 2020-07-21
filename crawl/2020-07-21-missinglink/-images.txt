@@ -1,5 +1,0 @@
-ERROR Crawled 1 urls with 1 error(s) in 0.03 seconds
-
-  Start URL(s): https://
-
-  error (<class 'urllib.error.URLError'>): <urlopen error no host given>: https://
