@@ -2,9 +2,8 @@
 
 clear
 # Start Running Link Check
-printf "\n Welcome to: Missing Link v0.3a"
 cat "cfg/banner.txt"
-printf "\n -> Beginning Link Crawl... \n"
+printf "\n => Beginning Link Crawl... \n\n"
 
 # Opening Variables
 domains="cfg/domains.txt"
@@ -39,4 +38,4 @@ do
 
 done < "$domains" > crawl/$d-missinglink/crawl-log-$d.txt
 
-printf "\n-> Link Validation Crawl Complete\n"
+printf "\n => Link Validation Crawl Complete\n\n"
